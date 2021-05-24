@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on full-stack development
-- 🌱 I’m interested in systems and machine learning 
+- 🌱 I’m interested in cloud computing and machine learning 
 - 👯 I’m looking to collaborate on open source projects 
 - ⚡ Fun fact: 🖋️ Lover
 
